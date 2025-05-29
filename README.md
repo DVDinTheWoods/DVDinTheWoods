@@ -1,10 +1,3 @@
-## Привет, меня зовут Дубинин Дмитрий
-
-Аналитик с опытом в финансовой сфере и продуктовом менеджменте.
-
-В работе с данными нашел заветный для себя баланс между процессом и конечным результатом, отсутствие которого ранее не позволяло полностью реализовать свой потенциал. 
-Импонируют задачи,  связанные с обработкой и визуализацией данных. 
-
 ## Инструменты
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="50" height="50"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/seaborn-auto.svg" width="50" height="50">
