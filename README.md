@@ -17,13 +17,7 @@
 
 ## Визуализации в Tableau
 
-[Победители главных Европейских кинофестивалей](https://public.tableau.com/views/MajorEuropeanfilmfestivalswinners/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-[Визуализация бизнес-деятельности магазина](https://public.tableau.com/views/Superstore_Dashboard_17282902581060/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-[Визуализация динамики публикации аналитических вакансий](https://public.tableau.com/views/Karpov_Courses_Task_2_HH/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-[Визуализация бизнес-деятельности сети отелей](https://public.tableau.com/views/Hotels_Dashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+TBU
 
 <!--
 **DVDinTheWoods/DVDinTheWoods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
